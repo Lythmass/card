@@ -5,9 +5,9 @@ export default function Section() {
      return (
           <div className = "about-section">
                <h2>About</h2>
-               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper morbi tincidunt ornare massa. Rhoncus urna neque viverra justo nec ultrices dui sapien. </p>
+               <p>Hello, I am a passionate developer from Georgia, I enjoy creating flamboyant React apps despite being a beginner. I always look forward to learing more in my field, which allows me to become a flashy developer.</p>
                <h2>Interests</h2>
-               <p>Ornare arcu odio ut sem nulla pharetra. Libero nunc consequat interdum varius sit amet. Sed enim ut sem viverra aliquet. Quis ipsum suspendisse ultrices gravida.</p>
+               <p>Love creating games, playing chess and video games, listening to epic music and other flamboyant things that are hard to comprehend...</p>
           </div>
      )
 }
