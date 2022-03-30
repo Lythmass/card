@@ -10,7 +10,12 @@ export default function Header() {
                     <h3>React Developer</h3>
                     <h5>@lythmass</h5>
                </div>
-               <button>Email</button>
+               <a href = "mailto:lythmass17@gmail.com" target = "_blank">
+                    <div class = "button">
+                         <i class="fa-solid fa-envelope"></i>
+                         <p>Email</p>
+                    </div>
+               </a>
           </div>
      )
 }
